@@ -4,7 +4,7 @@ import "./style.css";
 export default function Bio(){
     return(
         <>
-            <div className="bio">
+            <div className="bio" id="bio">
                 
             </div>
         </>
