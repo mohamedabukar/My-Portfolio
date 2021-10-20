@@ -8,11 +8,14 @@ export default function Navbar(){
                 <div className="wrapper">
                     <div className="left">
                         <a href="#bio">Bio</a>
+                        <a href="#apps">Apps</a>
+                        <div className="itemContainer">
+                            
+                        </div>
                     </div>
                     <div className="right">
-                        <a href="#apps">Apps</a>
+                        This is the right side
                     </div>
-                    {/* <div className=></div> */}
                 </div>
             </div>
         </>
