@@ -7,7 +7,7 @@ export default function Navbar(){
             <div className="navbar">
                 <div className="wrapper">
                     <div className="left">
-                        <a href="#bio">Bio</a>
+                        <a href="#bio" className="logo">Bio.</a>
                         <a href="#apps">Apps</a>
                         <div className="itemContainer">
                             
