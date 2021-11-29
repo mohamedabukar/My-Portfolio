@@ -5,7 +5,7 @@ export default function Bio(){
     return(
         <>
             <div className="bio" id="bio">
-                
+                Hello
             </div>
         </>
     );
