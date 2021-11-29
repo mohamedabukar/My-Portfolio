@@ -1,11 +1,11 @@
 import React from "react";
 import "./style.css";
-import {Phone, Mail} from "@material-ui/icons"
+// import {Phone, Mail} from "@material-ui/icons"
 
 export default function Navbar(){
     return(
         <>
-            <div>
+            <div className="NavBar">
                 <nav>
                     <ul>
                         <li>
