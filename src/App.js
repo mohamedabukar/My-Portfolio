@@ -4,14 +4,12 @@ import Bio from "./components/Bio";
 import Contact from "./components/Contact";
 import Apps from "./components/Apps";
 import Resume from "./components/Resume";
-import Menu from "./components/Menu";
 import './App.css';
 
 function App() {
   return (
       <div className="app">
-        <Navbar/>
-        <Menu />
+        <Navbar />
         <div className="sections">
           <Bio />
           <Apps />
