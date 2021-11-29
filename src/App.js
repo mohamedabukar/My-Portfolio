@@ -5,11 +5,13 @@ import Contact from "./components/Contact";
 import Apps from "./components/Apps";
 import Resume from "./components/Resume";
 import './App.css';
+import {useState} from "react";
 
 function App() {
+  const [menuOpen, setMenuOpen] = useState(false);
   return (
       <div className="app">
-        <Navbar />
+        <Navbar menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
         <div className="sections">
           <Bio />
           <Apps />
