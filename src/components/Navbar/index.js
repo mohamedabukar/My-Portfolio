@@ -5,7 +5,7 @@ import {Phone, Mail} from "@material-ui/icons"
 export default function Navbar(){
     return(
         <>
-            <div className="navbar">
+            <div className="navbar active">
                 <div className="wrapper">
                     <div className="left">
                         <a href="#bio" className="logo">Bio.</a>
@@ -19,7 +19,11 @@ export default function Navbar(){
                         </div>
                     </div>
                     <div className="right">
-
+                        <div className="hamburger">
+                            <span className="line1"></span>
+                            <span className="line2"></span>
+                            <span className="line3"></span>
+                        </div>  
                     </div>
                 </div>
             </div>
