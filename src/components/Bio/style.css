@@ -1,3 +1,21 @@
 .bio{
     background-color: rgb(60, 109, 60);
+    display:flex; 
+}
+.bio .container h1 {
+    margin: 0;
+}
+.bio .profile{
+    height: 70%;
+    position: absolute;
+    height: 300px;
+    top:10%;
+    left: 4%;
+    border: 5px;
+}
+.bio .fire{
+    height: 24%;
+    position: absolute;
+    top:50%;
+    left: 7%;
 }
