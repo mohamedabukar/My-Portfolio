@@ -10,18 +10,22 @@ body {
 h1{
   font-weight: 900;
   font-size: 45px;
+  color: #181818;
 }
 h2{
   font-weight: 700;
   font-size: 23px;
+  color: #181818;
 }
 p{
   font-weight: 500;
-  font-size: 21px;
+  font-size: large;
+  color: #181818;
 }
 a{
   font-weight:900;
   font-size: 16px;
+  color: #181818;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
