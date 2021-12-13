@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3ddb5b7.chunk.css",
+    "main.js": "/static/js/main.03b86361.chunk.js",
+    "main.js.map": "/static/js/main.03b86361.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.77f26fd5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.77f26fd5.js.map",
+    "static/js/2.4c78e15c.chunk.js": "/static/js/2.4c78e15c.chunk.js",
+    "static/js/2.4c78e15c.chunk.js.map": "/static/js/2.4c78e15c.chunk.js.map",
+    "static/js/3.20707837.chunk.js": "/static/js/3.20707837.chunk.js",
+    "static/js/3.20707837.chunk.js.map": "/static/js/3.20707837.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f3ddb5b7.chunk.css.map": "/static/css/main.f3ddb5b7.chunk.css.map",
+    "static/js/2.4c78e15c.chunk.js.LICENSE.txt": "/static/js/2.4c78e15c.chunk.js.LICENSE.txt",
+    "static/media/actor-database.0ee9b6f4.jpg": "/static/media/actor-database.0ee9b6f4.jpg",
+    "static/media/book.9f0c5c94.jpg": "/static/media/book.9f0c5c94.jpg",
+    "static/media/one-track.c6a6f761.jpg": "/static/media/one-track.c6a6f761.jpg",
+    "static/media/profile.1754ad5f.jpg": "/static/media/profile.1754ad5f.jpg",
+    "static/media/smiley-job-recruiter.d142eb27.jpg": "/static/media/smiley-job-recruiter.d142eb27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77f26fd5.js",
+    "static/js/2.4c78e15c.chunk.js",
+    "static/css/main.f3ddb5b7.chunk.css",
+    "static/js/main.03b86361.chunk.js"
+  ]
+}
