@@ -1,3 +1,26 @@
 .resume{
-    background-color: rgb(165, 139, 139);
+    background-color: rgb(55, 55, 107);
+}
+.resume-link{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+li{
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    font-size: 40px;
+    margin-left: 30px;
+}
+.resume-link:hover{
+    filter: saturate(150%);
+    box-shadow: 0 6px 15px 0 rgb(36, 92, 196);
+    opacity: 1;
+}
+.skills{
+    margin-left: 30px;
 }
