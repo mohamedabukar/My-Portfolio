@@ -1,21 +1,31 @@
 .bio{
-    background-color: rgb(60, 109, 60);
-    display:flex; 
+    background-color: purple;
 }
-.bio .container h1 {
-    margin: 0;
+.center{
+    text-align: center;
+    padding-bottom: 15px;
+    margin-top: 25px;
 }
-.bio .profile{
-    height: 70%;
-    position: absolute;
-    height: 300px;
-    top:10%;
-    left: 4%;
-    border: 5px;
+.bio .container {
+    display: flex;
 }
-.bio .fire{
-    height: 24%;
-    position: absolute;
-    top:50%;
-    left: 7%;
+.bio .container .text{
+    width: 47%;
+    margin-left: 10%;
+
 }
+.bio .container .text p{
+    margin-bottom: 30px;
+}
+.bio .container .text h2{
+    padding-bottom: 30px;
+}
+.bio .container .photo{
+    width: 30%;
+    display: flex;
+}
+.profile{
+    border-radius: 10%;
+    padding: 15px;
+}
+
